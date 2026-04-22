@@ -1,0 +1,223 @@
+{
+  "topic": "Khoa học & Công nghệ",
+  "period": "Từ 2026-04-13 đến 2026-04-20",
+  "oldest_date": "2026-04-13",
+  "newest_date": "2026-04-20",
+  "article_count": 61,
+  "sources": [
+    "vnexpress"
+  ],
+  "generated_at": "2026-04-22 18:19 +0700",
+  "llm_model": "ollama/qwen2.5:14b-instruct",
+  "top_keywords": [
+    {
+      "term": "AI",
+      "final_score": 0.6,
+      "sources": [
+        "ner"
+      ],
+      "doc_freq": 7,
+      "ner_count": 7,
+      "tfidf_score": null,
+      "sample_titles": [
+        "'Càng ứng dụng AI, doanh nghiệp càng cần người làm công nghệ'",
+        "Tên lửa tái sử dụng Blue Origin đưa vệ tinh lên sai quỹ đạo",
+        "Ba giám đốc OpenAI thông báo nghỉ việc cùng ngày"
+      ]
+    },
+    {
+      "term": "Artemis II",
+      "final_score": 0.48,
+      "sources": [
+        "ner"
+      ],
+      "doc_freq": 6,
+      "ner_count": 6,
+      "tfidf_score": null,
+      "sample_titles": [
+        "Phi hành đoàn Artemis II và trạm Thiên Cung lập kỷ lục khoảng cách",
+        "Nhiệm vụ Artemis II đạt mốc nào trong 10 ngày bay quanh Mặt Trăng?",
+        "NASA điều tra hiệu quả tấm chắn nhiệt ngay khi tàu Artemis II hạ cánh"
+      ]
+    },
+    {
+      "term": "phát triển",
+      "final_score": 0.4,
+      "sources": [
+        "tfidf"
+      ],
+      "doc_freq": 32,
+      "ner_count": null,
+      "tfidf_score": 2.9168,
+      "sample_titles": [
+        "Mỹ phát triển chip chịu được mức nhiệt 700 độ C",
+        "Việt Nam đặt an toàn là hàng đầu khi phát triển điện hạt nhân",
+        "Trung Quốc phát triển tinh thể giúp định vị không cần GPS"
+      ]
+    },
+    {
+      "term": "hoạt động",
+      "final_score": 0.363,
+      "sources": [
+        "tfidf"
+      ],
+      "doc_freq": 28,
+      "ner_count": null,
+      "tfidf_score": 2.8224,
+      "sample_titles": [
+        "Những hoạt động thúc đẩy trí tuệ nhân tạo tại AI Day 2026"
+      ]
+    },
+    {
+      "term": "SIM chính chủ",
+      "final_score": 0.36,
+      "sources": [
+        "ner"
+      ],
+      "doc_freq": 5,
+      "ner_count": 5,
+      "tfidf_score": null,
+      "sample_titles": [
+        "Những hiểu nhầm với quy định mới về xác nhận SIM chính chủ",
+        "Hôm nay bắt đầu xác nhận SIM chính chủ bằng VNeID",
+        "Ai cần xác nhận SIM chính chủ trên VNeID?"
+      ]
+    },
+    {
+      "term": "sản phẩm",
+      "final_score": 0.3019,
+      "sources": [
+        "tfidf"
+      ],
+      "doc_freq": 22,
+      "ner_count": null,
+      "tfidf_score": 2.6664,
+      "sample_titles": []
+    },
+    {
+      "term": "việt nam",
+      "final_score": 0.2905,
+      "sources": [
+        "tfidf"
+      ],
+      "doc_freq": 18,
+      "ner_count": null,
+      "tfidf_score": 2.6374,
+      "sample_titles": [
+        "'Chậm một nhịp công nghệ, Việt Nam có thể lỡ cơ hội tăng trưởng'",
+        "TCL mang TV công nghệ RGB và SQD-Mini LED về Việt Nam",
+        "Việt Nam đặt an toàn là hàng đầu khi phát triển điện hạt nhân"
+      ]
+    },
+    {
+      "term": "iPhone gập",
+      "final_score": 0.24,
+      "sources": [
+        "ner"
+      ],
+      "doc_freq": 4,
+      "ner_count": 4,
+      "tfidf_score": null,
+      "sample_titles": [
+        "iPhone gập có thể bị lùi lịch sản xuất",
+        "iPhone gập có thể mang tên Ultra, pin 5.800 mAh"
+      ]
+    },
+    {
+      "term": "doanh nghiệp",
+      "final_score": 0.2331,
+      "sources": [
+        "tfidf"
+      ],
+      "doc_freq": 19,
+      "ner_count": null,
+      "tfidf_score": 2.4909,
+      "sample_titles": [
+        "'Càng ứng dụng AI, doanh nghiệp càng cần người làm công nghệ'",
+        "'Doanh nghiệp nhỏ là cửa ngõ các cuộc tấn công mạng'"
+      ]
+    },
+    {
+      "term": "điện thoại",
+      "final_score": 0.201,
+      "sources": [
+        "tfidf"
+      ],
+      "doc_freq": 23,
+      "ner_count": null,
+      "tfidf_score": 2.409,
+      "sample_titles": [
+        "Điện thoại Trump tiếp tục làm mới thiết kế",
+        "Hai cách tra cứu các số điện thoại đang đứng tên",
+        "Nhiều người xếp hàng chờ xác thực số điện thoại"
+      ]
+    }
+  ],
+  "highlighted": [
+    {
+      "canonical_url": "https://vnexpress.net/loi-the-khi-openclaw-trien-khai-tren-cloud-5063333.html",
+      "title": "Lợi thế khi OpenClaw triển khai trên Cloud",
+      "description": "OpenClaw Cloud giúp đơn giản hóa việc triển khai AI Agents (tác nhân AI), hỗ trợ người dùng và doanh nghiệp tiếp cận trí tuệ nhân tạo dễ dàng hơn trong công việc thực tế.",
+      "published_at": "2026-04-20T14:00:00+07:00",
+      "score": 0.9325,
+      "matched_keywords": [
+        "AI",
+        "doanh nghiệp",
+        "triển khai"
+      ],
+      "days_old": 0
+    },
+    {
+      "canonical_url": "https://vnexpress.net/cang-ung-dung-ai-doanh-nghiep-cang-can-nguoi-lam-cong-nghe-5058526.html",
+      "title": "'Càng ứng dụng AI, doanh nghiệp càng cần người làm công nghệ'",
+      "description": "Theo ông Nguyễn Xuân Phong, Giám đốc công nghệ FPT, khi nhu cầu sử dụng AI tăng, doanh nghiệp càng cần tới các đối tác công nghệ, nhưng vai trò của kỹ sư IT sẽ thay đổi.",
+      "published_at": "2026-04-20T14:00:00+07:00",
+      "score": 0.8331,
+      "matched_keywords": [
+        "AI",
+        "doanh nghiệp"
+      ],
+      "days_old": 0
+    },
+    {
+      "canonical_url": "https://vnexpress.net/my-phat-trien-chip-chiu-duoc-muc-nhiet-700-do-c-5062078.html",
+      "title": "Mỹ phát triển chip chịu được mức nhiệt 700 độ C",
+      "description": "Các nhà nghiên cứu Đại học Nam California đã phát triển thành công chip có thể chịu được mức nhiệt 700 độ C, hoạt động tốt ở môi trường khắc nghiệt.",
+      "published_at": "2026-04-16T00:00:00+07:00",
+      "score": 0.696,
+      "matched_keywords": [
+        "phát triển",
+        "hoạt động",
+        "nghiên cứu",
+        "môi trường"
+      ],
+      "days_old": 4
+    },
+    {
+      "canonical_url": "https://vnexpress.net/nhung-hoat-dong-thuc-day-tri-tue-nhan-tao-tai-ai-day-2026-5062646.html",
+      "title": "Những hoạt động thúc đẩy trí tuệ nhân tạo tại AI Day 2026",
+      "description": "Các chuyên gia bàn về tiềm năng, cách xây dựng năng lực AI cho cộng đồng và hệ sinh thái đổi mới sáng tạo tại Ngày hội Trí tuệ nhân tạo 2026",
+      "published_at": "2026-04-15T14:00:00+07:00",
+      "score": 0.6347,
+      "matched_keywords": [
+        "AI",
+        "hoạt động"
+      ],
+      "days_old": 5
+    },
+    {
+      "canonical_url": "https://vnexpress.net/ai-la-co-hoi-vang-de-cntt-viet-nam-ru-bo-chiec-ao-thau-phu-5060849.html",
+      "title": "'AI là cơ hội vàng để Công nghệ thông tin Việt Nam rũ bỏ chiếc áo thầu phụ'",
+      "description": "Theo ông An Ngọc Thao, Phó tổng thư ký Vinasa, AI có thể giúp doanh nghiệp IT Việt nâng tầm từ thầu phụ (vendor) lên thành đối tác đồng sáng tạo (partner) với khách hàng quốc tế.",
+      "published_at": "2026-04-13T07:00:00+07:00",
+      "score": 0.6268,
+      "matched_keywords": [
+        "AI",
+        "việt nam",
+        "doanh nghiệp"
+      ],
+      "days_old": 7
+    }
+  ],
+  "executive_summary": "Tuần này, lĩnh vực công nghệ tiếp tục chứng kiến sự phát triển mạnh mẽ của trí tuệ nhân tạo (AI) với nhiều hoạt động thúc đẩy tại AI Day 2026. Các doanh nghiệp Việt Nam cũng đang tận dụng cơ hội từ AI để nâng cao vị thế trong ngành công nghệ thông tin. Ngoài ra, Mỹ đã giới thiệu một loại chip mới có khả năng chịu được nhiệt độ lên đến 700 độ C, mở ra triển vọng cho nhiều ứng dụng công nghệ tiên tiến khác nhau."
+}

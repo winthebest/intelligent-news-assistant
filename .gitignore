@@ -1,0 +1,44 @@
+# --- Python --------------------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# --- Virtual environments ------------------------------------------------
+.venv/
+venv/
+env/
+
+# --- Secrets / local config ----------------------------------------------
+# Never commit .env (it may contain GEMINI_API_KEY). .env.example is tracked.
+.env
+
+# --- LLM cache (regenerated on first run) --------------------------------
+.llm_cache/
+
+# --- Logs ----------------------------------------------------------------
+*.log
+logs/
+
+# --- OS / IDE junk -------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Tooling caches ------------------------------------------------------
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Local agent state (Cursor / Claude) ---------------------------------
+.claude/
+
+# NOTE: data/ and reports/ artifacts are intentionally tracked so graders
+# can re-run Phase 2-4 (filter, analyzer, reporter) without crawling.
+# If you generate a larger corpus locally and don't want to commit it,
+# re-add explicit ignores below.

@@ -1,0 +1,119 @@
+[
+  {
+    "term": "phát triển",
+    "score": 2.9168,
+    "doc_freq": 32,
+    "sample_titles": [
+      "Mỹ phát triển chip chịu được mức nhiệt 700 độ C",
+      "Việt Nam đặt an toàn là hàng đầu khi phát triển điện hạt nhân",
+      "Trung Quốc phát triển tinh thể giúp định vị không cần GPS"
+    ]
+  },
+  {
+    "term": "hoạt động",
+    "score": 2.8224,
+    "doc_freq": 28,
+    "sample_titles": [
+      "Những hoạt động thúc đẩy trí tuệ nhân tạo tại AI Day 2026"
+    ]
+  },
+  {
+    "term": "sản phẩm",
+    "score": 2.6664,
+    "doc_freq": 22,
+    "sample_titles": []
+  },
+  {
+    "term": "việt nam",
+    "score": 2.6374,
+    "doc_freq": 18,
+    "sample_titles": [
+      "'Chậm một nhịp công nghệ, Việt Nam có thể lỡ cơ hội tăng trưởng'",
+      "TCL mang TV công nghệ RGB và SQD-Mini LED về Việt Nam",
+      "Việt Nam đặt an toàn là hàng đầu khi phát triển điện hạt nhân"
+    ]
+  },
+  {
+    "term": "doanh nghiệp",
+    "score": 2.4909,
+    "doc_freq": 19,
+    "sample_titles": [
+      "'Càng ứng dụng AI, doanh nghiệp càng cần người làm công nghệ'",
+      "'Doanh nghiệp nhỏ là cửa ngõ các cuộc tấn công mạng'"
+    ]
+  },
+  {
+    "term": "điện thoại",
+    "score": 2.409,
+    "doc_freq": 23,
+    "sample_titles": [
+      "Điện thoại Trump tiếp tục làm mới thiết kế",
+      "Hai cách tra cứu các số điện thoại đang đứng tên",
+      "Nhiều người xếp hàng chờ xác thực số điện thoại"
+    ]
+  },
+  {
+    "term": "khả năng",
+    "score": 2.3152,
+    "doc_freq": 28,
+    "sample_titles": []
+  },
+  {
+    "term": "nghiên cứu",
+    "score": 2.2905,
+    "doc_freq": 24,
+    "sample_titles": [
+      "Hỗ trợ 1 tỷ đồng mỗi năm cho nghiên cứu sinh xuất sắc"
+    ]
+  },
+  {
+    "term": "triển khai",
+    "score": 2.1501,
+    "doc_freq": 21,
+    "sample_titles": [
+      "Lợi thế khi OpenClaw triển khai trên Cloud"
+    ]
+  },
+  {
+    "term": "môi trường",
+    "score": 2.0343,
+    "doc_freq": 22,
+    "sample_titles": []
+  },
+  {
+    "term": "nhiệm vụ",
+    "score": 1.997,
+    "doc_freq": 19,
+    "sample_titles": [
+      "Nhiệm vụ Artemis II đạt mốc nào trong 10 ngày bay quanh Mặt Trăng?"
+    ]
+  },
+  {
+    "term": "khoa học",
+    "score": 1.9716,
+    "doc_freq": 25,
+    "sample_titles": []
+  },
+  {
+    "term": "thông báo",
+    "score": 1.9636,
+    "doc_freq": 17,
+    "sample_titles": [
+      "Ba giám đốc OpenAI thông báo nghỉ việc cùng ngày"
+    ]
+  },
+  {
+    "term": "dịch vụ",
+    "score": 1.9317,
+    "doc_freq": 18,
+    "sample_titles": []
+  },
+  {
+    "term": "vận hành",
+    "score": 1.8964,
+    "doc_freq": 14,
+    "sample_titles": [
+      "Trung Quốc vận hành tàu container điện 10.000 tấn đầu tiên"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "entity": "AI",
+    "count": 7,
+    "sample_titles": [
+      "'Càng ứng dụng AI, doanh nghiệp càng cần người làm công nghệ'",
+      "Tên lửa tái sử dụng Blue Origin đưa vệ tinh lên sai quỹ đạo",
+      "Ba giám đốc OpenAI thông báo nghỉ việc cùng ngày"
+    ]
+  },
+  {
+    "entity": "Artemis II",
+    "count": 6,
+    "sample_titles": [
+      "Phi hành đoàn Artemis II và trạm Thiên Cung lập kỷ lục khoảng cách",
+      "Nhiệm vụ Artemis II đạt mốc nào trong 10 ngày bay quanh Mặt Trăng?",
+      "NASA điều tra hiệu quả tấm chắn nhiệt ngay khi tàu Artemis II hạ cánh"
+    ]
+  },
+  {
+    "entity": "SIM chính chủ",
+    "count": 5,
+    "sample_titles": [
+      "Những hiểu nhầm với quy định mới về xác nhận SIM chính chủ",
+      "Hôm nay bắt đầu xác nhận SIM chính chủ bằng VNeID",
+      "Ai cần xác nhận SIM chính chủ trên VNeID?"
+    ]
+  },
+  {
+    "entity": "iPhone gập",
+    "count": 4,
+    "sample_titles": [
+      "iPhone gập có thể bị lùi lịch sản xuất",
+      "iPhone gập có thể mang tên Ultra, pin 5.800 mAh"
+    ]
+  },
+  {
+    "entity": "VNeID",
+    "count": 3,
+    "sample_titles": [
+      "Băn khoăn khi VNeID không hiển thị đủ thuê bao chính chủ",
+      "Hôm nay bắt đầu xác nhận SIM chính chủ bằng VNeID",
+      "Ai cần xác nhận SIM chính chủ trên VNeID?"
+    ]
+  },
+  {
+    "entity": "MacBook Neo",
+    "count": 2,
+    "sample_titles": [
+      "MacBook Neo - mối đe dọa với laptop Windows giá rẻ"
+    ]
+  },
+  {
+    "entity": "Epson EB-L690U",
+    "count": 2,
+    "sample_titles": [
+      "Epson EB-L690U - máy chiếu tuổi thọ 30.000 giờ"
+    ]
+  },
+  {
+    "entity": "Trí tuệ nhân tạo",
+    "count": 2,
+    "sample_titles": [
+      "Những hoạt động thúc đẩy trí tuệ nhân tạo tại AI Day 2026"
+    ]
+  },
+  {
+    "entity": "Huawei Pura X Max",
+    "count": 2,
+    "sample_titles": []
+  },
+  {
+    "entity": "Unitree Robotics H1",
+    "count": 2,
+    "sample_titles": []
+  }
+]

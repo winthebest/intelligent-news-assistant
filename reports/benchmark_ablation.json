@@ -1,0 +1,33 @@
+{
+  "counts": {
+    "tfidf": 15,
+    "ner": 10,
+    "final": 15
+  },
+  "raw_overlap_tfidf_ner": 0,
+  "final_provenance": {
+    "both": [],
+    "ner_only": [
+      "ai",
+      "artemis ii",
+      "iphone gap",
+      "sim chinh chu",
+      "vneid"
+    ],
+    "tfidf_only": [
+      "doanh nghiep",
+      "hoat đong",
+      "kha nang",
+      "moi truong",
+      "nghien cuu",
+      "phat trien",
+      "san pham",
+      "trien khai",
+      "viet nam",
+      "đien thoai"
+    ]
+  },
+  "agreement_rate": 0.0,
+  "ner_only_contribution": 5,
+  "tfidf_only_contribution": 10
+}

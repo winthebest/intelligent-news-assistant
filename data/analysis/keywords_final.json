@@ -1,0 +1,207 @@
+[
+  {
+    "term": "AI",
+    "final_score": 0.6,
+    "sources": [
+      "ner"
+    ],
+    "doc_freq": 7,
+    "ner_count": 7,
+    "tfidf_score": null,
+    "sample_titles": [
+      "'Càng ứng dụng AI, doanh nghiệp càng cần người làm công nghệ'",
+      "Tên lửa tái sử dụng Blue Origin đưa vệ tinh lên sai quỹ đạo",
+      "Ba giám đốc OpenAI thông báo nghỉ việc cùng ngày"
+    ]
+  },
+  {
+    "term": "Artemis II",
+    "final_score": 0.48,
+    "sources": [
+      "ner"
+    ],
+    "doc_freq": 6,
+    "ner_count": 6,
+    "tfidf_score": null,
+    "sample_titles": [
+      "Phi hành đoàn Artemis II và trạm Thiên Cung lập kỷ lục khoảng cách",
+      "Nhiệm vụ Artemis II đạt mốc nào trong 10 ngày bay quanh Mặt Trăng?",
+      "NASA điều tra hiệu quả tấm chắn nhiệt ngay khi tàu Artemis II hạ cánh"
+    ]
+  },
+  {
+    "term": "phát triển",
+    "final_score": 0.4,
+    "sources": [
+      "tfidf"
+    ],
+    "doc_freq": 32,
+    "ner_count": null,
+    "tfidf_score": 2.9168,
+    "sample_titles": [
+      "Mỹ phát triển chip chịu được mức nhiệt 700 độ C",
+      "Việt Nam đặt an toàn là hàng đầu khi phát triển điện hạt nhân",
+      "Trung Quốc phát triển tinh thể giúp định vị không cần GPS"
+    ]
+  },
+  {
+    "term": "hoạt động",
+    "final_score": 0.363,
+    "sources": [
+      "tfidf"
+    ],
+    "doc_freq": 28,
+    "ner_count": null,
+    "tfidf_score": 2.8224,
+    "sample_titles": [
+      "Những hoạt động thúc đẩy trí tuệ nhân tạo tại AI Day 2026"
+    ]
+  },
+  {
+    "term": "SIM chính chủ",
+    "final_score": 0.36,
+    "sources": [
+      "ner"
+    ],
+    "doc_freq": 5,
+    "ner_count": 5,
+    "tfidf_score": null,
+    "sample_titles": [
+      "Những hiểu nhầm với quy định mới về xác nhận SIM chính chủ",
+      "Hôm nay bắt đầu xác nhận SIM chính chủ bằng VNeID",
+      "Ai cần xác nhận SIM chính chủ trên VNeID?"
+    ]
+  },
+  {
+    "term": "sản phẩm",
+    "final_score": 0.3019,
+    "sources": [
+      "tfidf"
+    ],
+    "doc_freq": 22,
+    "ner_count": null,
+    "tfidf_score": 2.6664,
+    "sample_titles": []
+  },
+  {
+    "term": "việt nam",
+    "final_score": 0.2905,
+    "sources": [
+      "tfidf"
+    ],
+    "doc_freq": 18,
+    "ner_count": null,
+    "tfidf_score": 2.6374,
+    "sample_titles": [
+      "'Chậm một nhịp công nghệ, Việt Nam có thể lỡ cơ hội tăng trưởng'",
+      "TCL mang TV công nghệ RGB và SQD-Mini LED về Việt Nam",
+      "Việt Nam đặt an toàn là hàng đầu khi phát triển điện hạt nhân"
+    ]
+  },
+  {
+    "term": "iPhone gập",
+    "final_score": 0.24,
+    "sources": [
+      "ner"
+    ],
+    "doc_freq": 4,
+    "ner_count": 4,
+    "tfidf_score": null,
+    "sample_titles": [
+      "iPhone gập có thể bị lùi lịch sản xuất",
+      "iPhone gập có thể mang tên Ultra, pin 5.800 mAh"
+    ]
+  },
+  {
+    "term": "doanh nghiệp",
+    "final_score": 0.2331,
+    "sources": [
+      "tfidf"
+    ],
+    "doc_freq": 19,
+    "ner_count": null,
+    "tfidf_score": 2.4909,
+    "sample_titles": [
+      "'Càng ứng dụng AI, doanh nghiệp càng cần người làm công nghệ'",
+      "'Doanh nghiệp nhỏ là cửa ngõ các cuộc tấn công mạng'"
+    ]
+  },
+  {
+    "term": "điện thoại",
+    "final_score": 0.201,
+    "sources": [
+      "tfidf"
+    ],
+    "doc_freq": 23,
+    "ner_count": null,
+    "tfidf_score": 2.409,
+    "sample_titles": [
+      "Điện thoại Trump tiếp tục làm mới thiết kế",
+      "Hai cách tra cứu các số điện thoại đang đứng tên",
+      "Nhiều người xếp hàng chờ xác thực số điện thoại"
+    ]
+  },
+  {
+    "term": "khả năng",
+    "final_score": 0.1642,
+    "sources": [
+      "tfidf"
+    ],
+    "doc_freq": 28,
+    "ner_count": null,
+    "tfidf_score": 2.3152,
+    "sample_titles": []
+  },
+  {
+    "term": "nghiên cứu",
+    "final_score": 0.1545,
+    "sources": [
+      "tfidf"
+    ],
+    "doc_freq": 24,
+    "ner_count": null,
+    "tfidf_score": 2.2905,
+    "sample_titles": [
+      "Hỗ trợ 1 tỷ đồng mỗi năm cho nghiên cứu sinh xuất sắc"
+    ]
+  },
+  {
+    "term": "VNeID",
+    "final_score": 0.12,
+    "sources": [
+      "ner"
+    ],
+    "doc_freq": 3,
+    "ner_count": 3,
+    "tfidf_score": null,
+    "sample_titles": [
+      "Băn khoăn khi VNeID không hiển thị đủ thuê bao chính chủ",
+      "Hôm nay bắt đầu xác nhận SIM chính chủ bằng VNeID",
+      "Ai cần xác nhận SIM chính chủ trên VNeID?"
+    ]
+  },
+  {
+    "term": "triển khai",
+    "final_score": 0.0994,
+    "sources": [
+      "tfidf"
+    ],
+    "doc_freq": 21,
+    "ner_count": null,
+    "tfidf_score": 2.1501,
+    "sample_titles": [
+      "Lợi thế khi OpenClaw triển khai trên Cloud"
+    ]
+  },
+  {
+    "term": "môi trường",
+    "final_score": 0.0541,
+    "sources": [
+      "tfidf"
+    ],
+    "doc_freq": 22,
+    "ner_count": null,
+    "tfidf_score": 2.0343,
+    "sample_titles": []
+  }
+]

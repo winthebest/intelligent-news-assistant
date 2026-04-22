@@ -1,0 +1,31 @@
+# ---------------------------------------------------------------------------
+# Intelligent News Assistant - Python dependencies
+# Tested with Python >= 3.10
+# ---------------------------------------------------------------------------
+
+# --- Web scraping / browser automation -------------------------------------
+# Selenium 4.10+ bundles Selenium Manager, so ChromeDriver is resolved
+# automatically; no `webdriver-manager` needed.
+selenium>=4.15.0
+
+# --- Configuration / environment -------------------------------------------
+python-dotenv>=1.0.0
+
+# --- Filter layer (Phase 2) ------------------------------------------------
+# rapidfuzz powers fuzzy title matching for near-duplicate detection
+# (token_set_ratio). Pure-Python fallback exists but is ~50x slower.
+rapidfuzz>=3.5.0
+
+# --- Analyzer layer (Phase 3) ----------------------------------------------
+# litellm is a thin wrapper over ~100 LLM providers. We use it so the same
+# code path works for Gemini (production), Ollama (local), or OpenAI.
+litellm>=1.50.0
+
+# scikit-learn gives us TfidfVectorizer for the statistical keyword baseline
+# that we fuse with LLM-NER results.
+scikit-learn>=1.3.0
+
+# psutil is optional - only used by `python -m src.analyzer.doctor` to
+# detect host RAM for Ollama model-size recommendation. Pipeline works
+# without it (falls back to conservative defaults).
+psutil>=5.9.0

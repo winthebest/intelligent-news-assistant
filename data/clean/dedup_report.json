@@ -1,0 +1,38 @@
+{
+  "input_file": "D:\\Test_PCA\\data\\raw\\vnexpress_articles.json",
+  "output_file": "D:\\Test_PCA\\data\\clean\\articles.json",
+  "dedup_threshold": 85,
+  "min_content_length": 100,
+  "counts": {
+    "raw": 64,
+    "after_clean": 62,
+    "after_exact_dedup": 62,
+    "after_fuzzy_dedup": 61,
+    "invalid": 2,
+    "exact_duplicates": 0,
+    "fuzzy_duplicates": 1
+  },
+  "invalid": [
+    {
+      "canonical_url": "https://vnexpress.net/ipad-air-m4-hieu-nang-macbook-tren-may-tinh-bang-5063087.html",
+      "title": "iPad Air M4 - hiệu năng MacBook trên máy tính bảng",
+      "reason": "content_too_short:24"
+    },
+    {
+      "canonical_url": "https://vnexpress.net/xac-thuc-thue-bao-2026-khac-gi-dot-chuan-hoa-du-lieu-2023-5062331.html",
+      "title": "Xác thực thuê bao 2026 khác gì đợt chuẩn hóa dữ liệu 2023?",
+      "reason": "content_too_short:9"
+    }
+  ],
+  "exact_duplicates": [],
+  "fuzzy_duplicates": [
+    {
+      "canonical_url": "https://vnexpress.net/cach-tu-xac-nhan-sim-chinh-chu-tren-vneid-5062267.html",
+      "title": "Cách tự xác nhận SIM chính chủ trên VNeID",
+      "reason": "fuzzy_duplicate",
+      "similarity": 85,
+      "cluster_representative_canonical_url": "https://vnexpress.net/ai-can-xac-nhan-sim-chinh-chu-tren-vneid-5061702.html",
+      "cluster_representative_title": "Ai cần xác nhận SIM chính chủ trên VNeID?"
+    }
+  ]
+}

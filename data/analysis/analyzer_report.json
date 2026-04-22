@@ -1,0 +1,23 @@
+{
+  "input_file": "D:\\Test_PCA\\data\\clean\\articles.json",
+  "output_dir": "D:\\Test_PCA\\data\\analysis",
+  "top_k": 15,
+  "article_count": 61,
+  "skip_llm": false,
+  "llm_model": "ollama/qwen2.5:14b-instruct",
+  "stages": {
+    "tfidf": {
+      "count": 15,
+      "latency_ms": 810
+    },
+    "ner": {
+      "count": 10,
+      "latency_ms": 0,
+      "model": "ollama/qwen2.5:14b-instruct"
+    },
+    "merge": {
+      "count": 15,
+      "latency_ms": 0
+    }
+  }
+}
