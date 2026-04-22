@@ -6,6 +6,8 @@ A 4-stage pipeline that crawls Vietnamese tech news from **VnExpress**, cleans &
 
 **Docs.** See [`TECHNICAL_REPORT.md`](TECHNICAL_REPORT.md) for the full architecture, design decisions, ablation study, and evaluation.
 
+**Example weekly JSON output.** [`reports/weekly_report_2026-04-22.json`](reports/weekly_report_2026-04-22.json)
+
 ---
 
 ## Quick start
