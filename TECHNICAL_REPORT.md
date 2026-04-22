@@ -4,16 +4,6 @@
 
 > **Submission**: PCACS — AI Engineer Intern Technical Test
 
-> **Date**: 2026-04-22
-
-> **Repository**: _<github link — to be added after `git init` + push>_
-
-> **Topic**: Khoa học – Công nghệ (Science & Technology)
-
-> **Lookback window**: 7 days (2026-04-13 → 2026-04-20)
-
-> **Corpus**: 61 articles from VnExpress `/khoa-hoc-cong-nghe/`
-
 ---
 
 ## Table of Contents
